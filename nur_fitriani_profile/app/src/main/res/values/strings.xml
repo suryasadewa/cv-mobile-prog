@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">LoginWithAnimation</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Login</string>
+    <string name="message_welcome_page">Halo perkenalkan saya Nur Fitriani, mahasiswa STMIK Widya Utama</string>
+    <string name="title_welcome_page">Selamat datang di MyProfile!</string>
+    <string name="title_signup_page">Lengkapi data dirimu di bawah ini ya</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Masukkan dulu datamu ya</string>
+    <string name="title_login_page">Sudah siap berkolaborasi?</string>
+    <string name="name">Nama</string>
+    <string name="message_main_page">Selamat Belajar di Dicoding.</string>
+    <string name="greeting">Halo %1$s,</string>
+    <string name="logout">Keluar</string>
+    <string name="hai_teman_teman">Hai teman-teman salam kenal👋</string>
+    <string name="gender">Jenis Kelamin</string>
+    <string name="male">Laki-laki</string>
+    <string name="female">Perempuan</string>
+    <string name="terms_and_conditions">Setujui syarat dan ketentuan</string>
+</resources>
